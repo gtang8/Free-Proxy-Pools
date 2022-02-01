@@ -19,7 +19,7 @@ We are collecting some common node crawler project proxy pools and subscription 
 | http://emby.luoml.eu.org | http://emby.luoml.eu.org/clash/proxies |
 | http://guobang.herokuapp.com | http://guobang.herokuapp.com/clash/proxies |
 | http://www.antg.xyz | http://www.antg.xyz/clash/proxies |
-| http://www.fuckgfw.tk | http://www.fuckgfw.tk/clash/proxies |
+| :star:http://www.fuckgfw.tk | http://www.fuckgfw.tk/clash/proxies |
 | :star:http://wxshi.top:9090 | http://wxshi.top:9090/clash/proxies |
 | https://138.3.217.61 | https://138.3.217.61/clash/proxies |
 | :star:https://149.248.8.112 | https://149.248.8.112/clash/proxies |
