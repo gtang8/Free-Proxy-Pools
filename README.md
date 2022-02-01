@@ -40,10 +40,10 @@ We are collecting some common node crawler project proxy pools and subscription 
 | :star:https://free.kingfu.cf | https://free.kingfu.cf/clash/proxies |
 | https://free886.herokuapp.com | https://free886.herokuapp.com/clash/proxies |
 | https://hello.stgod.com | https://hello.stgod.com/clash/proxies |
-| https://hellopool.herokuapp.com | https://hellopool.herokuapp.com/clash/proxies |
+| :star:https://hellopool.herokuapp.com | https://hellopool.herokuapp.com/clash/proxies |
 | :star:https://hk.xhrzg2017.xyz | https://hk.xhrzg2017.xyz/clash/proxies |
 | https://hm2019721.ml | https://hm2019721.ml/clash/proxies |
-| https://origamiboy.herokuapp.com | https://origamiboy.herokuapp.com/clash/proxies |
+| :star:https://origamiboy.herokuapp.com | https://origamiboy.herokuapp.com/clash/proxies |
 | :star:https://outseen.tk | https://outseen.tk/clash/proxies |
 | :star:https://proxies.bihai.cf | https://proxies.bihai.cf/clash/proxies |
 | :star:https://proxy.leefake.xyz | https://proxy.leefake.xyz/clash/proxies |
